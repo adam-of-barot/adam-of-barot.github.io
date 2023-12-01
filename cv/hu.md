@@ -33,17 +33,17 @@ A problémák megoldás-alapú megközelítését, az alapos és precíz munkav�
 - online alkalmazott jelenléti ív
 - böngésző alapú elektronikus laboratóriumi jegyzőkönyv
 
-## Education
+## Oktatás
 
 - Eötvös Lóránd Tudományegyetem, Kémia MSc, 2016 -- 2018
 - Eötvös Lóránd Tudományegyetem, Kémia BSc, 2013 -- 2016
 
-## Language skills
+## Nyelvi képességek
 
 - Magyar: Anyanyelvi
 - Angol: Tárgyalóképes (C1 szint)
 
-## Technical Skills
+## Technikai képességek
 
 - Fő nyelvek: Python, JavaScript/TypeScript, HTML5, CSS3
 - Ezekkel is dolgoztam: PHP, C#
