@@ -2,7 +2,7 @@
 
 - <barothi.adam@gmail.com>
 - +36 20 669 3447
-- [LinkedIn profil](https://linkedin/in/barothiadam)
+- [LinkedIn profil](https://www.linkedin.com/in/barothiadam/)
 - Budapest, HU
 
 Kémikusból lett full-stack fejlesztő.

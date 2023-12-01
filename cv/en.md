@@ -2,7 +2,7 @@
 
 - <barothi.adam@gmail.com>
 - +36 20 669 3447
-- [LinkedIn profile](https://linkedin/in/barothiadam)
+- [LinkedIn profile](https://www.linkedin.com/in/barothiadam/)
 - Budapest, HU
 
 A chemist turned full-stack developer.
