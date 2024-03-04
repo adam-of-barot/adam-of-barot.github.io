@@ -1,5 +1,6 @@
-# Önéletrajz
+## Önéletrajz
 
+- Baróthi Ádám
 - <barothi.adam@gmail.com>
 - +36 20 669 3447
 - [LinkedIn profil](https://www.linkedin.com/in/barothiadam/)
@@ -13,25 +14,25 @@ A problémák megoldás-alapú megközelítését, az alapos és precíz munkav�
 ### Junior Developer, BioBlocks Kft.
 #### 2021 július -- Jelen
 
-- Kulcsfontosságú reszponzív és reaktív belsős applikáció tervezése, fejlesztése és élesítése a kísérleti adatok rögzítésére
-- Meglévő rendszerek összhangjának növelés
-- Legacy alkalmazások és online katalógus oldal karbantartásának átvétele
-- Együttműködés a döntéshozókkal egy adatvezéreltebb döntéshozatali procedúra megalkotásában
+- Kulcsfontosságú reszponzív és reaktív belsős applikáció tervezése, fejlesztése és élesítése a kísérleti adatok rögzítésére Vue.js és Django használatával
+- Meglévő rendszerek összhangjának növelése Django Rest Framework segítségével
+- Code Igniter 3 alapú legacy alkalmazások és online katalógus oldal karbantartásának átvétele
+- Együttműködés a döntéshozókkal egy adatvezéreltebb döntéshozatali procedúra megalkotásában (React.js + Express.js alkalmazásával)
 
 ### Research Associate, BioBlocks Kft.
 #### 2018 július -- 2021 július
 
-- A cég központi applikációs infrastuktúrájának létrehozása modern technológiák használatával
+- A cég központi applikációs infrastuktúrájának létrehozása modern technológiák használatával (Django, PostgreSQL)
 - Excel táblák manuális kezelésének szükségességének csökkentése, termelékenység növelése
-- A céges fragmens alapú gyógyszerkutató könyvtár kezelése
-- Általános IT kisegítő tevékenységek elvégzése
+- A cég több mint 500.000 egyedi molekulát tartalmazó fragmens alapú gyógyszerkutató könyvtárának kezelése
+- Felhasználók támogatása meglévő IT rendszerekkel kapcsolatban
 
 ## Projektek / Ezeket készítettem
 
-- kémiai anyagokat kezelő oldal (leltár, beszerzés)
-- megrendelés kezelő oldal
-- online alkalmazott jelenléti ív
-- böngésző alapú elektronikus laboratóriumi jegyzőkönyv
+- Kémiai anyagokat kezelő oldal (leltár, beszerzés)
+- Megrendelés kezelő oldal
+- Online alkalmazott jelenléti ív
+- Böngésző alapú elektronikus laboratóriumi jegyzőkönyv
 
 ## Oktatás
 
@@ -53,10 +54,10 @@ A problémák megoldás-alapú megközelítését, az alapos és precíz munkav�
 - Adat analízis (KNIME)
 - Környezetek: Node.js
 - Forráskód kezelés: Git
-- operációs rendszerek: Windows, Linux
+- Operációs rendszerek: Windows, Linux
 - Koncepciók: REST API, Objektum Orientált Programozás
 - Felhő: AWS
 
 ## Hozzájárulások nyílt forráskódú projektekhez
 
-- rdkit.js: TypeScript type definíciók
+- [rdkit.js](https://github.com/rdkit/rdkit-js): TypeScript type definíciók

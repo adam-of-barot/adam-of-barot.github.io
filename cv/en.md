@@ -1,5 +1,6 @@
-# Curriculum Vitae
+## Curriculum Vitae
 
+- Baróthi Ádám
 - <barothi.adam@gmail.com>
 - +36 20 669 3447
 - [LinkedIn profile](https://www.linkedin.com/in/barothiadam/)
@@ -7,7 +8,7 @@
 
 A chemist turned full-stack developer.
 An advocate of approaching problems with a solution-centric mindset,
-priorityzing user experience,
+prioritizing user experience,
 and making sure things are done thoroughly and precisely.
 
 ## Experience
@@ -15,25 +16,25 @@ and making sure things are done thoroughly and precisely.
 ### Junior Developer, BioBlocks Kft.
 #### July 2021 -- Present
 
-- Designed, developed and deployed responsive and reactive key internal web applications to help chemists capture experimental data
-- Taken over maintenance of legacy applications and customer-facing public catalog website
-- Worked with management to create a more data-driven decision making process
+- Designed, developed and deployed responsive and reactive key internal web applications to help chemists capture experimental data using Vue.js and Django.
+- Increased interconnectivity of existing systems by utilizing Django Rest Framework
+- Taken over maintenance of Code Igniter 3 based legacy applications and customer-facing public catalog website
+- Worked with management to create a more data-driven decision making process (React.js + Express.js)
 
 ### Research Associate, BioBlocks Kft.
 #### July 2018 -- July 2021
 
-- Created the core internal app infrastructure of the company using modern technologies
-- Increase connectivity of existing applications
+- Created the core internal app infrastructure of the company using modern technologies (Django, PostgreSQL)
 - Reduced reliance on manually managing Excel worksheets, boosting productivity
-- Managed proprietary fragment based drug discovery library
-- Performed general IT support activities
+- Managed proprietary fragment based drug discovery library of over 500.000 unique compounds
+- Supported users for existing IT systems
 
 ## Projects / Things I helped build
 
-- chemical compound management site (inventory tracking, acquisition)
-- order management site
-- online employee attendance sheet
-- browser based electronic laboratory notebook
+- Chemical compound management site (inventory tracking, acquisition)
+- Order management site
+- Online employee attendance sheet
+- Browser based electronic laboratory notebook
 
 ## Education
 
@@ -61,4 +62,4 @@ and making sure things are done thoroughly and precisely.
 
 ## Open source contributions
 
-- rdkit.js: helped with creating TypeScript type definitions
+- [rdkit.js](https://github.com/rdkit/rdkit-js): helped with creating TypeScript type definitions
