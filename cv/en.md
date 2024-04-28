@@ -1,5 +1,7 @@
 ## Curriculum Vitae
 
+![profile picture](/images/profile.jpg)
+
 - Baróthi Ádám
 - <barothi.adam@gmail.com>
 - +36 20 669 3447
